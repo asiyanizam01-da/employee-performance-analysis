@@ -10,7 +10,7 @@ It demonstrates a full analytics workflow — data validation, feature engineeri
 
 ## Tools Used
 
-- Microsoft Excel
+- Microsoft Excel 365
 - Pivot Tables
 - Excel Formulas (`IFS`, `COUNTIF`, `AVERAGE`, `FILTER`, `SORT`)
 - Data Validation Techniques
@@ -97,6 +97,8 @@ Analysis was conducted to answer the following business questions:
 
 A one-page Excel dashboard was created to visualize key performance metrics and trends.
 
+![Employee Performance Analytics Dashboard](screenshots/employee_performance_analytics_dashboard.png)
+
 **KPI Cards**
 - Total Employees
 - Average Performance
@@ -130,7 +132,7 @@ employee-performance-excel-analytics/
 ├── dashboard/
 │   └── employee_performance_dashboard.xlsx
 ├── screenshots/
-│   └── dashboard.png
+│   └── employee_performance_analytics_dashboard.png
 └── README.md
 ```
 
