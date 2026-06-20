@@ -1,0 +1,101 @@
+employee_id,name,role,department,age,gender,join_date
+EMP1001,Adeel Hussain,Marketing Manager,Marketing,32,Male,2023-09-22
+EMP1002,Karan Mathew,Marketing Executive,Marketing,30,Male,2022-03-05
+EMP1003,Steven Al Mansoori,Sales Executive,Sales,29,Male,2022-01-22
+EMP1004,Ahmed Smith,Operations Manager,Operations,38,Male,2022-03-15
+EMP1005,Pooja Reddy,Marketing Executive,Marketing,26,Female,2024-09-04
+EMP1006,Priya Nair,Accountant,Finance,24,Female,2024-04-15
+EMP1007,Wei Patel,Senior Support Associate,Customer Support,34,Male,2025-03-18
+EMP1008,Tom Chen,Senior Software Engineer,Engineering,27,Male,2024-06-14
+EMP1009,Adeel Hassan,Support Team Lead,Customer Support,37,Male,2019-07-29
+EMP1010,Ali Gupta,Sales Manager,Sales,36,Male,2023-09-07
+EMP1011,Karan Ali,Marketing Executive,Marketing,27,Male,2018-05-16
+EMP1012,Ali Ali,Sales Manager,Sales,36,Male,2019-01-04
+EMP1013,Divya Hussain,Software Engineer,Engineering,22,Female,2024-05-13
+EMP1014,Vikram Hussain,Sales Executive,Sales,26,Male,2018-10-03
+EMP1015,Mark Mohammed,Sales Executive,Sales,23,Male,2018-04-08
+EMP1016,James Kumar,Operations Associate,Operations,27,Male,2023-12-23
+EMP1017,Zara Rodriguez,HR Generalist,HR,33,Female,2018-08-10
+EMP1018,Karan Al Mansoori,Senior Support Associate,Customer Support,30,Male,2025-10-08
+EMP1019,Faisal Sharma,Financial Analyst,Finance,37,Male,2021-09-29
+EMP1020,Pooja Abdullah,Marketing Manager,Marketing,41,Female,2024-07-14
+EMP1021,Andrew Nair,Support Associate,Customer Support,31,Male,2020-10-10
+EMP1022,Khalid Thomas,Sales Executive,Sales,28,Male,2017-12-14
+EMP1023,Anna Mohammed,Marketing Executive,Marketing,22,Female,2025-04-09
+EMP1024,Carlos Lee,Accountant,Finance,29,Male,2020-10-23
+EMP1025,Noor Farooq,HR Executive,HR,25,Female,2024-06-30
+EMP1026,Neha Singh,Operations Analyst,Operations,39,Female,2023-04-16
+EMP1027,Divya Kumar,Marketing Executive,Marketing,32,Female,2025-04-08
+EMP1028,Rachel Garcia,Finance Manager,Finance,41,Female,2022-03-14
+EMP1029,Amal Abdullah,Marketing Manager,Marketing,45,Female,2024-11-29
+EMP1030,Layla Mohammed,Support Associate,Customer Support,31,Female,2020-08-15
+EMP1031,Pooja Joseph,Senior Support Associate,Customer Support,29,Female,2016-10-17
+EMP1032,Lisa Gupta,QA Engineer,Engineering,26,Female,2024-07-14
+EMP1033,David Singh,Senior Software Engineer,Engineering,33,Male,2021-08-15
+EMP1034,Noor Hussain,Engineering Manager,Engineering,38,Female,2023-09-10
+EMP1035,John Gupta,Support Associate,Customer Support,24,Male,2020-09-24
+EMP1036,Lisa Abdullah,Accountant,Finance,25,Female,2025-10-11
+EMP1037,Salma Patel,Software Engineer,Engineering,22,Female,2025-09-25
+EMP1038,Andrew Brown,Senior Sales Executive,Sales,34,Male,2019-05-12
+EMP1039,Faisal Hussain,Marketing Executive,Marketing,33,Male,2024-08-28
+EMP1040,Lisa Mathew,Operations Associate,Operations,33,Female,2024-07-15
+EMP1041,Sophia Singh,Operations Analyst,Operations,25,Female,2022-09-13
+EMP1042,Daniel Farooq,Senior Sales Executive,Sales,25,Male,2024-10-14
+EMP1043,Lisa Reddy,Operations Associate,Operations,30,Female,2025-10-19
+EMP1044,Mark Thomas,Senior Software Engineer,Engineering,36,Male,2025-04-04
+EMP1045,Steven Gupta,Sales Manager,Sales,39,Male,2023-03-12
+EMP1046,Imran Gupta,Financial Analyst,Finance,29,Male,2023-12-08
+EMP1047,Rajesh Singh,Software Engineer,Engineering,28,Male,2024-01-20
+EMP1048,Salma Gupta,Sales Executive,Sales,30,Female,2024-05-09
+EMP1049,Steven Verma,Software Engineer,Engineering,22,Male,2024-02-02
+EMP1050,Sarah Sharma,QA Engineer,Engineering,26,Female,2024-11-09
+EMP1051,Michael Hussain,Operations Manager,Operations,41,Male,2025-10-07
+EMP1052,Sana Ali,Support Associate,Customer Support,22,Female,2025-02-01
+EMP1053,Robert Brown,Support Associate,Customer Support,26,Male,2021-12-24
+EMP1054,Steven Saeed,Accountant,Finance,26,Male,2021-07-20
+EMP1055,Rachel Verma,Senior Sales Executive,Sales,29,Female,2019-05-27
+EMP1056,David Hussain,Engineering Manager,Engineering,43,Male,2020-02-28
+EMP1057,Huda Saeed,HR Generalist,HR,31,Female,2023-10-21
+EMP1058,Priya Sharma,Accountant,Finance,24,Female,2025-07-25
+EMP1059,Arjun Nair,Software Engineer,Engineering,22,Male,2021-11-04
+EMP1060,Sophia Brown,Sales Manager,Sales,38,Female,2024-10-20
+EMP1061,Emma Verma,Sales Executive,Sales,28,Female,2022-09-19
+EMP1062,Rajesh Abdullah,Support Associate,Customer Support,24,Male,2019-11-17
+EMP1063,Sameer Patel,Operations Associate,Operations,27,Male,2023-05-02
+EMP1064,John Nair,Support Associate,Customer Support,28,Male,2020-08-19
+EMP1065,Layla Mohammed,Support Associate,Customer Support,28,Female,2020-05-24
+EMP1066,Wei Saeed,Content Specialist,Marketing,28,Male,2025-03-19
+EMP1067,Pooja Iqbal,Finance Manager,Finance,44,Female,2022-05-24
+EMP1068,Omar Iqbal,Senior Sales Executive,Sales,25,Male,2021-01-20
+EMP1069,Rajesh Gupta,DevOps Engineer,Engineering,33,Male,2025-01-03
+EMP1070,Huda Gupta,Senior Sales Executive,Sales,39,Female,2020-11-15
+EMP1071,Sana Lee,Operations Analyst,Operations,31,Female,2020-02-28
+EMP1072,Andrew Saeed,Sales Executive,Sales,26,Male,2024-11-14
+EMP1073,Ali Patel,Senior Support Associate,Customer Support,37,Male,2022-11-16
+EMP1074,Mei Smith,HR Generalist,HR,32,Female,2021-02-23
+EMP1075,Zara Nair,Support Associate,Customer Support,31,Female,2019-03-19
+EMP1076,Grace Garcia,Software Engineer,Engineering,29,Female,2024-05-28
+EMP1077,Daniel Hussain,Operations Analyst,Operations,32,Male,2023-05-02
+EMP1078,Ravi Rodriguez,Sales Executive,Sales,22,Male,2025-06-07
+EMP1079,Kavya Garcia,HR Executive,HR,28,Female,2025-03-20
+EMP1080,Kavya Rodriguez,Sales Executive,Sales,23,Female,2022-11-15
+EMP1081,Omar Patel,Senior Software Engineer,Engineering,29,Male,2022-11-26
+EMP1082,Hala Brown,Sales Executive,Sales,22,Female,2025-01-22
+EMP1083,Imran Farooq,Operations Analyst,Operations,25,Male,2021-01-05
+EMP1084,Rahul Hassan,HR Manager,HR,30,Male,2022-04-09
+EMP1085,Anjali Smith,Software Engineer,Engineering,27,Female,2022-10-11
+EMP1086,Ahmed Patel,Software Engineer,Engineering,34,Male,2018-03-08
+EMP1087,Zara Brown,Sales Executive,Sales,33,Female,2025-01-25
+EMP1088,Karan Al Mansoori,Sales Executive,Sales,26,Male,2021-04-11
+EMP1089,Rachel Nair,Financial Analyst,Finance,32,Female,2019-06-30
+EMP1090,Rajesh Mohammed,Senior Sales Executive,Sales,30,Male,2020-11-03
+EMP1091,Nikhil Hussain,Operations Associate,Operations,25,Male,2024-01-26
+EMP1092,Ravi Nair,Senior Software Engineer,Engineering,29,Male,2023-06-23
+EMP1093,Andrew Ali,Senior Software Engineer,Engineering,25,Male,2022-11-17
+EMP1094,Andrew Lee,Sales Executive,Sales,33,Male,2024-11-16
+EMP1095,Priya Al Mansoori,Marketing Manager,Marketing,35,Female,2021-04-16
+EMP1096,Tom Sharma,Sales Executive,Sales,30,Male,2023-07-15
+EMP1097,Adeel Wilson,Marketing Executive,Marketing,25,Male,2020-06-29
+EMP1098,Daniel Wilson,Sales Manager,Sales,36,Male,2020-08-25
+EMP1099,Steven Ali,Software Engineer,Engineering,27,Male,2020-05-22
+EMP1100,Yasmin Mohammed,Senior Support Associate,Customer Support,35,Female,2024-06-07
