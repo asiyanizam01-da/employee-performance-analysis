@@ -125,12 +125,12 @@ A one-page Excel dashboard was created to visualize key performance metrics and 
 ## Project Structure
 
 ```text
-employee-performance-excel-analytics/
+employee-performance-analysis/
 ├── data/
 │   ├── employee_data.csv
 │   └── employee_performance.csv
 ├── dashboard/
-│   └── employee_performance_dashboard.xlsx
+│   └── employee_performance_analytics_dashboard.xlsx
 ├── screenshots/
 │   └── employee_performance_analytics_dashboard.png
 └── README.md
