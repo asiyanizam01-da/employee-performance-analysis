@@ -10,7 +10,7 @@ It demonstrates a full analytics workflow — data validation, feature engineeri
 
 ## Tools Used
 
-- Microsoft Excel 365
+- Microsoft Excel
 - Pivot Tables
 - Excel Formulas (`IFS`, `COUNTIF`, `AVERAGE`, `FILTER`, `SORT`)
 - Data Validation Techniques
